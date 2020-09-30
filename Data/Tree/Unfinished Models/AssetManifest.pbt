@@ -8,39 +8,12 @@
   }
 }
 Assets {
-  Id: 17467484423913692098
-  Name: "Sci-fi Base Wall 02 - Corner 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_scf_base_wall_002_corner_01_ref"
-  }
-}
-Assets {
-  Id: 17411449495217333473
-  Name: "Sci-Fi Base Wall 02 - Doorway 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_scf_base_wall_002_door_01_ref"
-  }
-}
-Assets {
   Id: 17164668289428711060
   Name: "Cylinder"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_002"
-  }
-}
-Assets {
-  Id: 15927288681667637564
-  Name: "Sci-Fi Base Wall 02 Half"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_scf_base_wall_002_half_ref"
   }
 }
 Assets {
@@ -53,39 +26,12 @@ Assets {
   }
 }
 Assets {
-  Id: 15300776000409393071
-  Name: "Sci-Fi Base Wall 02 - Window 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_scf_base_wall_002_win_01_ref"
-  }
-}
-Assets {
-  Id: 14631716589231304463
-  Name: "Sci-Fi Base Trim 02 4m"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_scf_base_trim_002_4m_ref"
-  }
-}
-Assets {
   Id: 14232399330662554938
   Name: "Basic Material"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_basic_pbr_material_001"
-  }
-}
-Assets {
-  Id: 14219837461031165857
-  Name: "Sci-fi Base Sconce 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_scf_base_sconce_001_ref"
   }
 }
 Assets {
@@ -107,15 +53,6 @@ Assets {
   }
 }
 Assets {
-  Id: 12055624017040116852
-  Name: "Sci-fi Base Breakout Box 03"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_scf_base_breakout_003_ref"
-  }
-}
-Assets {
   Id: 11111497324519217194
   Name: "Bone Raw"
   PlatformAssetType: 2
@@ -125,39 +62,12 @@ Assets {
   }
 }
 Assets {
-  Id: 10963256355628764557
-  Name: "Sci-fi Base Breakout Box 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_scf_base_breakout_001_ref"
-  }
-}
-Assets {
   Id: 10642454772622111733
   Name: "Wireframe"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "wireframe_glow_001"
-  }
-}
-Assets {
-  Id: 9493188079052154321
-  Name: "Sci-Fi Base Wall 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_scf_base_wall_002_ref"
-  }
-}
-Assets {
-  Id: 7739609131653669376
-  Name: "Sci-fi Base Roof 01 - 4m"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_scf_base_roof_001_4m_ref"
   }
 }
 Assets {
@@ -221,15 +131,6 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_glass_stained_manticore_001"
-  }
-}
-Assets {
-  Id: 579992454019494021
-  Name: "Sci-Fi Base Trim 02 Corner - In"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_scf_base_trim_002_corner_in_ref"
   }
 }
 Assets {
