@@ -2,7 +2,7 @@
   Id: 2444263353646072215
   Name: "Coin Spawner Base"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 1487738039921823588
     ParameterOverrides {

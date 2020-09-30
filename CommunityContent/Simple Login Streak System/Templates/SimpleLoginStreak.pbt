@@ -45,6 +45,6 @@
   Marketplace {
     Description: "Basic system for login streaks. Isn\'t QA too much, not super CC friendly."
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
   DirectlyPublished: true
 }

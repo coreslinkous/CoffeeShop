@@ -46,5 +46,5 @@
     Version: "1.0.0"
     Description: "1st Attempt at a bike, with smaller tires"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

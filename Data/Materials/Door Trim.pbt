@@ -2,7 +2,7 @@
   Id: 5626352744312834538
   Name: "Door Trim"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 9837031551250158292
     ParameterOverrides {

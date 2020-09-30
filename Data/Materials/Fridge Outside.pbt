@@ -2,7 +2,7 @@
   Id: 13021606335922269861
   Name: "Fridge Outside"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 17738734797160346039
     ParameterOverrides {

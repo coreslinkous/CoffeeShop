@@ -48,5 +48,5 @@
     Version: "1.0.0"
     Description: "A QWERTY keyboard modelled after the one I use at home.\r\n"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

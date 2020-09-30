@@ -39,5 +39,5 @@
     OwnerName: "disastronaut"
     Description: "Same drink refrigerator, but now with glowing backlit branding and inside light. Includes alternative JUICE letters for you folks who like your drinks healthy. \r\n\r\nPartnership with CORE COLA tba "
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

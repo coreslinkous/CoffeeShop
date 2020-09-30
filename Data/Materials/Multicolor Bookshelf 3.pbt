@@ -2,7 +2,7 @@
   Id: 11995072244462346164
   Name: "Multicolor Bookshelf 3"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 3029306623058893653
     ParameterOverrides {

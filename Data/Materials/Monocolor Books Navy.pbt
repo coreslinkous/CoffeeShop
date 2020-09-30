@@ -2,7 +2,7 @@
   Id: 796633534018774530
   Name: "Monocolor Books Navy"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 3029306623058893653
     ParameterOverrides {

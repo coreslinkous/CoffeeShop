@@ -2,7 +2,7 @@
   Id: 8094944297612769917
   Name: "Shelf Wood"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 9361281724504552581
     ParameterOverrides {

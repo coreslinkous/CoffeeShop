@@ -600,5 +600,5 @@
       AssetId: "Craftsman_Wall_02_-_Basic_Door_Template"
     }
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

@@ -2,7 +2,7 @@
   Id: 11358226014455653614
   Name: "Bracelet Fabric"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 13748964054684253891
     ParameterOverrides {

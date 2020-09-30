@@ -39,5 +39,5 @@
     OwnerName: "coreslinkous"
     Description: "A table for your coffee shop."
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

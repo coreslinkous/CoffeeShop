@@ -2,7 +2,7 @@
   Id: 8870722825685693889
   Name: "Cork"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 16998636638827203189
     ParameterOverrides {

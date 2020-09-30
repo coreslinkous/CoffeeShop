@@ -49,5 +49,5 @@
     Version: "1.0.0"
     Description: "Some of the amazing arcade machines taken from the Smosh Games - Arcade Hub"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

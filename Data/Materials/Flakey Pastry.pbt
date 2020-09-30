@@ -2,7 +2,7 @@
   Id: 9854953341493338020
   Name: "Flakey Pastry"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 9680944959660351233
     ParameterOverrides {

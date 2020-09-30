@@ -2,7 +2,7 @@
   Id: 3916684725133930769
   Name: "Whipped Cream"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 1166276861665345190
     ParameterOverrides {

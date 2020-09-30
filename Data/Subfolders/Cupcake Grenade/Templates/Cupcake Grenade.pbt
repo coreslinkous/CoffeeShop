@@ -48,5 +48,5 @@
     Version: "1.2.0"
     Description: "Tired of boring grenades? Celebrating a special occasion? Going to war? Try the Cupcake Grenade! Featuring a rainbow projectile trail with sparkles and a confetti explosion with plenty of sprinkles - killing your enemies has never been this much fun... or this delicious!"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

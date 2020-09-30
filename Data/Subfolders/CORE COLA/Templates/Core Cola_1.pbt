@@ -2712,6 +2712,6 @@
   Marketplace {
     Description: "straight from the core!\r\n\r\na soft drink made from core shards, Core Cola tastes great and its satisfying to consume"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
   DirectlyPublished: true
 }

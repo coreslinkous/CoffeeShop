@@ -2,7 +2,7 @@
   Id: 368970995152909557
   Name: "Peach Texture"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 4955876797534754070
     ParameterOverrides {

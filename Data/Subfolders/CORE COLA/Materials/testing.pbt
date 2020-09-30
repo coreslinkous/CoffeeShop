@@ -2,7 +2,7 @@
   Id: 17955957169038640253
   Name: "testing"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 6591369519766094419
     ParameterOverrides {

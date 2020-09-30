@@ -2,7 +2,7 @@
   Id: 13651292872274559994
   Name: "Wall Paint"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 17738734797160346039
     ParameterOverrides {

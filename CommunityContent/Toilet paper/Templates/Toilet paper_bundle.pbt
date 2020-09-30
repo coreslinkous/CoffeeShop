@@ -46,5 +46,5 @@
     Version: "1.0.0"
     Description: "a roll of toilet paper"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

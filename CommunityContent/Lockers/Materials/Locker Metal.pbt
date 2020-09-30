@@ -2,7 +2,7 @@
   Id: 431028418491953552
   Name: "Locker Metal"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 132672053610873933
     ParameterOverrides {

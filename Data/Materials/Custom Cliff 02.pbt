@@ -2,7 +2,7 @@
   Id: 18364030660935088477
   Name: "Vanilla Frosting"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 12129620481806058424
     ParameterOverrides {

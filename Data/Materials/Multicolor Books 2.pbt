@@ -2,7 +2,7 @@
   Id: 7936014975618699771
   Name: "Multicolor Books 2"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 3029306623058893653
     ParameterOverrides {

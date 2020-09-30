@@ -2,7 +2,7 @@
   Id: 14343368134180416499
   Name: "Glowing Letters"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 4077938580079188609
     ParameterOverrides {

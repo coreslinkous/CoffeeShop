@@ -2,7 +2,7 @@
   Id: 7542558722321955694
   Name: "Cork Board"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 2501613521688791750
     ParameterOverrides {

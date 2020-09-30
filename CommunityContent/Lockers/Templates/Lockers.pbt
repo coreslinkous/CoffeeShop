@@ -9834,6 +9834,6 @@
   Marketplace {
     Description: "Update 1.1: Now with interactable, slowly opening door!\r\n\r\nJust lockers. Interaction and lock combination coming soon."
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
   DirectlyPublished: true
 }

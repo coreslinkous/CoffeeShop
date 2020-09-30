@@ -2,7 +2,7 @@
   Id: 11898554007264187152
   Name: "Pink"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 9837031551250158292
     ParameterOverrides {

@@ -2,7 +2,7 @@
   Id: 2186910087372023921
   Name: "Black"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 9837031551250158292
     ParameterOverrides {

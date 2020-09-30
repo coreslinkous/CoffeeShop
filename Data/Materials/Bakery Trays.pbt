@@ -2,7 +2,7 @@
   Id: 15315225492980360757
   Name: "Bakery Trays"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 11516500135868261829
     ParameterOverrides {

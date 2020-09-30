@@ -2,7 +2,7 @@
   Id: 16710194411146437330
   Name: "Table Wood"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 14034799821574332976
     ParameterOverrides {

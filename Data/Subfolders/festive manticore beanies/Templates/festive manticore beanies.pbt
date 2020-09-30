@@ -46,5 +46,5 @@
     Version: "1.0.0"
     Description: "Festive beanies with the Manticore logo on them."
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

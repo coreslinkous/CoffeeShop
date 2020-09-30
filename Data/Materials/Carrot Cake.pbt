@@ -2,7 +2,7 @@
   Id: 13034477457949626119
   Name: "Carrot Cake"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 3769345815052151787
     ParameterOverrides {

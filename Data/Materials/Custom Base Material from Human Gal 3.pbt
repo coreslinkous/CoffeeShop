@@ -2,7 +2,7 @@
   Id: 5784592059112126886
   Name: "Custom Base Material from Human Gal 3"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 10076300695309221642
     ParameterOverrides {

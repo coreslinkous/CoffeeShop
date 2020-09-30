@@ -2,7 +2,7 @@
   Id: 8934029844717944176
   Name: "Trashcan Texture"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 13936523527784532237
     ParameterOverrides {

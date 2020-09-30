@@ -4088,6 +4088,6 @@
   Marketplace {
     Description: "Bookshelf collection using the bookshelf material. "
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
   DirectlyPublished: true
 }

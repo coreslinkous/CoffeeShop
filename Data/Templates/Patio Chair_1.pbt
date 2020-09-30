@@ -42,5 +42,5 @@
     OwnerName: "disastronaut"
     Description: "Update 1.1: Moved origin to bottom, rounded back of seat, and dulled wrought-iron texture\r\n\r\nA wrought-iron chair for your fancy patio.\r\n\r\nMade from the Beach Chair by Daddio. Includes a scripted (sittable) and unscripted version. "
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

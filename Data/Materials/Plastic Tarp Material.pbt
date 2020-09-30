@@ -2,7 +2,7 @@
   Id: 2552496094708311915
   Name: "Plastic Tarp Material"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 1217276590199042805
     ParameterOverrides {

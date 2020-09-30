@@ -46,5 +46,5 @@
     Version: "1.0.0"
     Description: "Basic system for login streaks. Isn\'t QA too much, not super CC friendly."
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

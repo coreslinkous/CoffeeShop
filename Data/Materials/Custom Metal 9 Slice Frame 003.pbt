@@ -2,7 +2,7 @@
   Id: 10885902492109399976
   Name: "Custom Metal 9 Slice Frame 003"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 11424937429209702148
     ParameterOverrides {

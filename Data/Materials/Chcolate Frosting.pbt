@@ -2,7 +2,7 @@
   Id: 1821168878231387162
   Name: "Chcolate Frosting"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 17699128668611927252
     ParameterOverrides {

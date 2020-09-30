@@ -350,6 +350,6 @@
   Marketplace {
     Description: "Paper lantern mesh with light"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
   DirectlyPublished: true
 }

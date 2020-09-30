@@ -2,7 +2,7 @@
   Id: 7247021324858901798
   Name: "Fence Paint"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 4077938580079188609
     ParameterOverrides {

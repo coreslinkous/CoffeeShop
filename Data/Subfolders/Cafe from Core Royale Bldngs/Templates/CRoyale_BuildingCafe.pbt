@@ -7102,6 +7102,6 @@
   Marketplace {
     Description: "The Cafe from Core Royale Buildings"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
   DirectlyPublished: true
 }

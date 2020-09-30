@@ -2,7 +2,7 @@
   Id: 7817359123956522914
   Name: "Frosting Carrot"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 6928794950147515902
     ParameterOverrides {

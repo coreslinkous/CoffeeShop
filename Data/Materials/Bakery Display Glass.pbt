@@ -2,7 +2,7 @@
   Id: 12205575210651999114
   Name: "Bakery Display Glass"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 13166151969338134835
     ParameterOverrides {

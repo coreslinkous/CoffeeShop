@@ -1475,6 +1475,6 @@
   Marketplace {
     Description: "A chocolate frosted donut with rainbow sprinkles"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
   DirectlyPublished: true
 }

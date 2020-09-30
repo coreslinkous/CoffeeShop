@@ -2,7 +2,7 @@
   Id: 16278973505808745286
   Name: "Ceiling Wood"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 9048414234185971650
     ParameterOverrides {

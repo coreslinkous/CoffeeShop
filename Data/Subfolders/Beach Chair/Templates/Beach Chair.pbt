@@ -46,5 +46,5 @@
     Version: "1.0.0"
     Description: "sLight weight beach chair"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

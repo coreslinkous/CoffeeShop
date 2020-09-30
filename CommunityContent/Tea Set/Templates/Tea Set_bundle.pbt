@@ -58,5 +58,5 @@
     Version: "1.0.0"
     Description: "Contains:\r\n\r\nTeapot\r\nEmptyTeacup\r\nFilledTeacup\r\nSaucer\r\nFilledCupWithSaucer\r\n\r\nEverything should be scaled to be proportianal to the player."
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

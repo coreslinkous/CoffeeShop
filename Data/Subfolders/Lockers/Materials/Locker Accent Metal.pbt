@@ -2,7 +2,7 @@
   Id: 2332577751422353981
   Name: "Locker Accent Metal"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 14054176190919042885
     ParameterOverrides {

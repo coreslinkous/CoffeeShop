@@ -2,7 +2,7 @@
   Id: 9211521623379105263
   Name: "Custom Gel Opaque"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 4515003284087559638
     ParameterOverrides {

@@ -2,7 +2,7 @@
   Id: 7263563984989353966
   Name: "Interior Floor Tiles"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 6248995088411815301
     ParameterOverrides {

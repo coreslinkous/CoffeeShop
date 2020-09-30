@@ -46,5 +46,5 @@
     Version: "1.0.0"
     Description: "The Cafe from Core Royale Buildings"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

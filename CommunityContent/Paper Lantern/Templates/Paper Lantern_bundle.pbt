@@ -46,5 +46,5 @@
     Version: "1.0.0"
     Description: "Paper lantern mesh with light"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

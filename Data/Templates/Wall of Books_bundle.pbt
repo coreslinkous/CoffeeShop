@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "Bookshelf collection using the bookshelf material. "
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

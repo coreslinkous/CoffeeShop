@@ -2,7 +2,7 @@
   Id: 18225684638758973421
   Name: "Skin Tone"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 10184847056121543272
     ParameterOverrides {

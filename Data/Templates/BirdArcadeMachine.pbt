@@ -3944,6 +3944,6 @@
   Marketplace {
     Description: "Some of the amazing arcade machines taken from the Smosh Games - Arcade Hub"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
   DirectlyPublished: true
 }

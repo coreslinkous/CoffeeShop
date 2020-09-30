@@ -583,5 +583,5 @@
       AssetId: "Sci-fi_Base_Wall_02_Half_-_Sliding_Door_Template"
     }
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

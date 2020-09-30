@@ -2,7 +2,7 @@
   Id: 17437736712644645283
   Name: "Short Bookshelf"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 3029306623058893653
     ParameterOverrides {

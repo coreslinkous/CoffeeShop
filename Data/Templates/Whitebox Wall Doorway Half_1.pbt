@@ -39,5 +39,5 @@
     OwnerName: "disastronaut"
     Description: "Wish you had a half wall with a doorway to go with the whitebox tile set? Now you do!"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

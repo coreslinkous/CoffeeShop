@@ -1543,6 +1543,6 @@
   Marketplace {
     Description: "For the Lua Light tutorial"
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
   DirectlyPublished: true
 }

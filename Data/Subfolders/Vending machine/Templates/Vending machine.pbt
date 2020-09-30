@@ -46,5 +46,5 @@
     Version: "1.0.0"
     Description: "Vending machine model for Aphrim."
   }
-  SerializationVersion: 63
+  SerializationVersion: 65
 }

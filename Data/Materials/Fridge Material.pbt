@@ -2,7 +2,7 @@
   Id: 14966082669296115749
   Name: "Fridge Material"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 2502011191961427546
     ParameterOverrides {

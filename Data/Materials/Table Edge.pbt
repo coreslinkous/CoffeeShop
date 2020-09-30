@@ -2,7 +2,7 @@
   Id: 14656137327077098366
   Name: "Table Edge"
   PlatformAssetType: 13
-  SerializationVersion: 63
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 2723232960546970913
     ParameterOverrides {
